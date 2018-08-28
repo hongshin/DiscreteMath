@@ -20,7 +20,7 @@ You can find this book in Handong Book on campus. It is **mandatory** for each c
 * This webpage for lecture note, resource for homework, etc.
 
 #### Lecture Notes ####
-* [Course overview (Aug 28)](course-overview.pdf)  
+* [Course overview (Aug 28)](notes/syllabus.pdf)  
 <!--
 Aug 31   
 Sep 04   
