@@ -21,7 +21,7 @@ You can find this book in Handong Book on campus. It is **mandatory** for each c
 
 #### Lecture Notes ####
 * [Course overview (Aug 28)](notes/syllabus.pdf)  
-* [Chapter 1. Logic and Proof (Aug 31)](ch1-180831.pdf)
+* **[Chapter 1. Logic and Proof (Aug 31, Sep 4)](notes/ch1-wip.pdf)**
 <!--
 Aug 31   
 Sep 04   
