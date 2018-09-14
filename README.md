@@ -21,7 +21,8 @@ You can find this book in Handong Book on campus. It is **mandatory** for each c
 
 #### Lecture Notes ####
 * [Course overview (Aug 28)](notes/syllabus.pdf)  
-* **[Chapter 1. Propositional Logic and Predicate Logic (Aug 31, Sep 4, Sep 11, Sep 14)](notes/CH1-Logic.pdf)**
+* [Chapter 1. Propositional Logic and Predicate Logic (Aug 31, Sep 4, Sep 11, Sep 14)](notes/CH1-Logic.pdf)
+* [Quiz 1 (Sep 14)](notes/quiz1.pdf)
 <!--
 Sep 18.  
 Sep 21.  
