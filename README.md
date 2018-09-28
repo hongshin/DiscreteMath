@@ -20,7 +20,7 @@ You can find this book in Handong Book on campus. It is **mandatory** for each c
 * This webpage for lecture note, resource for homework, etc.
 
 #### Lecture Notes  ####
-* [Course overview (Aug 28)](notes/syllabus.pdf)  
+* [Course Overview (Aug 28)](notes/syllabus.pdf)  
 * [Chapter 1. Propositional Logic and Predicate Logic (Aug 31, Sep 4, Sep 11, Sep 14)](notes/Ch1-Logic.pdf)
 * [Quiz 1 (Sep 14)](notes/quiz1.pdf)
 * [Chapter 1. Inference Rules (Sep 18)](notes/Ch1-Inference-Rule.pdf)
@@ -30,9 +30,8 @@ You can find this book in Handong Book on campus. It is **mandatory** for each c
 * [Chapter 2. Set (Sep 28)](notes/WIP-Ch2-Set.pdf)
 
 #### Assignments ####
-* [Book Reading Assignment](assignments/book.md)
 * [Programming Assignment 1. Solve Puzzles with Z3](assignments/pa1.pdf)
-
+* [Book Reading Assignment (optional)](assignments/book.md)
 <!--
 Sep 28.  
 Oct 02.  
