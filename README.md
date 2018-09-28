@@ -30,8 +30,9 @@ You can find this book in Handong Book on campus. It is **mandatory** for each c
 * [Chapter 2. Set (Sep 28)](notes/WIP-Ch2-Set.pdf)
 
 #### Assignments ####
-* [Programming Assignment 1. Solve Puzzles with Z3](assignments/pa1.pdf)
 * [Book Reading Assignment (optional)](assignments/book.md)
+* [Programming Assignment 1. Solve Puzzles with Z3](assignments/pa1.pdf)
+
 <!--
 Sep 28.  
 Oct 02.  
