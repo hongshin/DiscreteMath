@@ -19,7 +19,7 @@ You can find this book in Handong Book on campus. It is **mandatory** for each c
 * [Hisnet](http://hisnet.handong.edu) for online attendance check & homework submission
 * This webpage for lecture note, resource for homework, etc.
 
-#### Lecture Notes ####
+#### Lecture Notes  ####
 * [Course overview (Aug 28)](notes/syllabus.pdf)  
 * [Chapter 1. Propositional Logic and Predicate Logic (Aug 31, Sep 4, Sep 11, Sep 14)](notes/Ch1-Logic.pdf)
 * [Quiz 1 (Sep 14)](notes/quiz1.pdf)
@@ -27,8 +27,13 @@ You can find this book in Handong Book on campus. It is **mandatory** for each c
 * [Chapter 1. Proofs (Sep 21)](notes/Ch1-Proof.pdf)
   * [nqueen.c](notes/nqueen.c)
   * [SMT solver Z3](https://github.com/Z3Prover/z3)
+* [Chapter 2. Set (Sep 28)](notes/WIP-Ch2-Set.pdf)
+
+#### Assignments ####
+* [Book Reading Assignment](assignments/book.md)
+* [Programming Assignment 1. Solve Puzzles with Z3](assignments/pa1.pdf)
+
 <!--
-Sep 25. No class for the Chuseok Holiday
 Sep 28.  
 Oct 02.  
 Oct 05.  
