@@ -13,6 +13,6 @@ Discussion includes new ideas, opinions and critiques on the book. The recommend
 * Linked: How Everything Is Connected to Everything Else and What It Means for Business, Science and Everyday Life (링크: 21세기를 지배하는 네트워크 과학)
 * The Emperor's New Mind, Roger Penrose (황제의 새마음, 상/하)
 * Godel's Proof, Ernest Nagel et al., (괴델의 증명)
-* Godel, Escher, Bach: An Eternal Golden Braid, Douglas Hofstadter(괴델, 에셔, 바흐: 영원한 황금 노끈)
+* Godel, Escher, Bach: An Eternal Golden Braid, Douglas Hofstadter (괴델, 에셔, 바흐: 영원한 황금 노끈)
 
 You can use either Enlgish or Korean version of a recommneded book. Note that your article must be written in English.
