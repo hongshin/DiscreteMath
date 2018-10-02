@@ -27,7 +27,7 @@ You can find this book in Handong Book on campus. It is **mandatory** for each c
 * [Chapter 1. Proofs (Sep 21)](notes/Ch1-Proof.pdf)
   * [nqueen.c](notes/nqueen.c)
   * [SMT solver Z3](https://github.com/Z3Prover/z3)
-* [Chapter 2. Set (Sep 28)](notes/WIP-Ch2-Set.pdf)
+* [Chapter 2. Set (Sep 28, Oct 2)](notes/Ch2-Set.pdf)
 
 #### Assignments ####
 * [Book Reading Assignment (optional)](assignments/book.md)
