@@ -28,18 +28,14 @@ You can find this book in Handong Book on campus. It is **mandatory** for each c
   * [nqueen.c](notes/nqueen.c)
   * [SMT solver Z3](https://github.com/Z3Prover/z3)
 * [Chapter 2. Set (Sep 28, Oct 2)](notes/Ch2-Set.pdf)
-
+* [Chapter 2. Function, Sequence, Cardinality (Oct 5, Oct 12)](notes/Ch2-Function.pdf)
+* [Chapter 3. Algorithm (Oct 16)](notes/Ch3-Algorithm.pdf)
+* [Chapter 3. Halting Problem (Oct 16)](notes/Ch3-HaltingProblem.pdf)
 #### Assignments ####
 * [Book Reading Assignment (optional)](assignments/book.md)
 * [Programming Assignment 1. Solve Puzzles with Z3](assignments/pa1.pdf)
 
 <!--
-Sep 28.  
-Oct 02.  
-Oct 05.  
-Oct 09. No class for the National Holiday for Hangul
-Oct 12.  
-Oct 16.  
 Oct 19.  
 Oct 23.  
 Oct 26.  
