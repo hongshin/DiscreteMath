@@ -31,6 +31,7 @@ You can find this book in Handong Book on campus. It is **mandatory** for each c
 * [Chapter 2. Function, Sequence, Cardinality (Oct 5, Oct 12)](notes/Ch2-Function.pdf)
 * [Chapter 3. Algorithm (Oct 16)](notes/Ch3-Algorithm.pdf)
 * [Chapter 3. Halting Problem (Oct 16)](notes/Ch3-HaltingProblem.pdf)
+* [Midterm exam (Oct 26)](notes/problems.pdf)
 #### Assignments ####
 * [Book Reading Assignment (optional)](assignments/book.md)
 * [Programming Assignment 1. Solve Puzzles with Z3](assignments/pa1.pdf)
