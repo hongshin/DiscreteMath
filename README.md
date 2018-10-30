@@ -38,9 +38,8 @@ You can find this book in Handong Book on campus. It is **mandatory** for each c
 #### Assignments ####
 * [Book Reading Assignment (optional)](assignments/book.md)
 * [Programming Assignment 1. Solve Puzzles with Z3](assignments/pa1.pdf)
-
+* Assignment 2. Midterm Reload (by 1PM, Nov 2)
 <!--
-Oct 30.  
 Nov 02.  
 Nov 06.  
 Nov 09.  
