@@ -33,15 +33,15 @@ You can find this book in Handong Book on campus. It is **mandatory** for each c
 * [Chapter 3. Halting Problem (Oct 16)](notes/Ch3-HaltingProblem.pdf)
 * [Chapter 3. Asymptotic Computational Complexity (Oct 23)](notes/Ch3-AsymptoticComplexity.pdf)
 * [Midterm exam (Oct 26)](notes/problems.pdf)
-* [Chapter 5. Mathematical Induction (Oct 30)](notes/Ch5-Induction-WIP.pdf)
+* [Chapter 5. Mathematical Induction and Recursion (Oct 30, Nov 2, Nov 6)](notes/Ch5.pdf)
 
 #### Assignments ####
 * [Book Reading Assignment (optional)](assignments/book.md)
 * [Programming Assignment 1. Solve Puzzles with Z3](assignments/pa1.pdf)
 * Assignment 2. Midterm Reload (by 1PM, Nov 2)
+* [Programming Assignment 2. Recursion and Fractals](assignments/pa2.pdf)
+	- Tree factral example: [tree.html](assignments/tree.html)
 <!--
-Nov 02.  
-Nov 06.  
 Nov 09.  
 Nov 13.  
 Nov 16.  
