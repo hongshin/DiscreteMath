@@ -41,6 +41,8 @@ You can find this book in Handong Book on campus. It is **mandatory** for each c
 * Assignment 2. Midterm Reload (by 1PM, Nov 2)
 * [Programming Assignment 2. Recursion and Fractals](assignments/pa2.pdf)
 	- Tree factral example: [tree.html](assignments/tree.html)
+* [Programming Assignment 3. Twitter network](assignments/pa3.pdf)
+	- [twitter_sampled.txt.zip](assignments/twitter_sampled.txt.zip)
 <!--
 Nov 09.  
 Nov 13.  
