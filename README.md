@@ -36,7 +36,7 @@ You can find this book in Handong Book on campus. It is **mandatory** for each c
 * [Chapter 5. Mathematical Induction and Recursion (Oct 30, Nov 2, Nov 6)](notes/Ch5.pdf)
 * [Chapter 6. Counting](notes/Ch6.pdf)
 * [Chapter 9. Relation](notes/Ch9.pdf)
-* [Chapter 7. Discrete Probability](https://www.dropbox.com/s/v6jpmp6cgtkc69m/Chapter7.pptx?dl=0)
+* [Chapter 7. Discrete Probability](notes/Chapter7.pptx)
 
 #### Assignments ####
 * [Book Reading Assignment (optional)](assignments/book.md)
