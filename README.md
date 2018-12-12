@@ -37,6 +37,7 @@ You can find this book in Handong Book on campus. It is **mandatory** for each c
 * [Chapter 6. Counting](notes/Ch6.pdf)
 * [Chapter 9. Relation](notes/Ch9.pdf)
 * [Chapter 7. Discrete Probability](notes/Chapter7.pptx)
+* [Final exam (Dec 12)](notes/final.pdf)
 
 #### Assignments ####
 * [Book Reading Assignment (optional)](assignments/book.md)
