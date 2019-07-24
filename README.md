@@ -1,14 +1,12 @@
-# ITP 20002 Discrete Mathematics, 2019 Fall #
+# Discrete Mathematics, 2019 Fall #
 
 ### Course information ###
 
 * Meetings
-  * `ITP 20002-01`:  1PM-2:15PM, Mon/Thu (from XX to XX) at NTH 313
-  * `ITP 20002-02`:  1PM-2:15PM, Mon/Thu (from XX to XX) at AHN 313
-  * Help hour by TAs:  8PM-9PM, Mon ​a​t ​*​C​o​di​ng ​Sp​ac​e​*​ ​(​i.e.,​ OH 316)
-* Piazza
-  * `ITP 20002-01`:  https://piazza.com/handong/fall2019/itp2000201
-  * `ITP 20002-02`:  https://piazza.com/handong/fall2019/itp2000202
+  * `ITP 20002-01`:  1:00 PM--2:15 PM, Mon/Thu (NTH 313)
+  * `ITP 20002-02`:  4:00 PM--5:15 PM, Mon/Thu (AHN 313)
+  * TA's Help hour:  8PM-9PM, Mon ​a​t ​*​C​o​di​ng ​Sp​ac​e​*​ ​(​OH 316)
+* Piazza ([link](#channels))
 * Instructor: Shin Hong https://hongshin.github.io / hongshin@handong.edu
 * Teaching assistants ([pictures](https://arise.handong.edu))
   * Jeewoong Kim jeewoong@handong.edu 
@@ -16,7 +14,7 @@
   * Hyerin Leem 
 * Class polices: [POLICY.md](POLICY.md)
 
-### Course Objectives ###
+### Course objectives ###
 This course aims to equip beginner-level Computer Science students with fundamentals of mathematics essential for their major studies. This course is to articulate students in how to read and write technical descriptions in Computer Science effectively, in how to count or enumerate things, and in how to reason scientific facts with discrete structures such as sets, relations, permutations, graphs, and trees. Students are expected to understand how the fundamental concepts are applied to solve computing problems of real world.
 
 ### Materials ###
@@ -48,4 +46,4 @@ You can find this book in Handong Book on campus. It is **mandatory** for every 
 
 ### Previous instances ### 
 
-[ITP 20002-02 Discrete Mathematics (Shin Hong), 2018 Fall]()
+* [ITP 20002-02 Discrete Mathematics (Shin Hong), 2018 Fall]()
