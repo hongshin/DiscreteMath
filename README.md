@@ -1,62 +1,51 @@
-# ITP20002 Discrete Mathematics, 2018 Fall #
+# ITP 20002 Discrete Mathematics, 2019 Fall #
 
-* Meeting: :clock1: Tue/Fri, 1PM-2:15PM :door: NTH 313
-  - Help hour: :clock9: Mon, 8PM-9PM :door: OH 316 (a.k.a. Coding Space)
-* Instructor: Shin Hong https://hongshin.github.io :email: hongshin@handong.edu
-* Teaching assistant: Hansol Choe :email: hansolchoe@handong.edu
+### Course information ###
+
+* Meetings
+  * `ITP 20002-01`:  1PM-2:15PM, Mon/Thu (from XX to XX) at NTH 313
+  * `ITP 20002-02`:  1PM-2:15PM, Mon/Thu (from XX to XX) at AHN 313
+  * Help hour by TAs:  8PM-9PM, Mon ​a​t ​*​C​o​di​ng ​Sp​ac​e​*​ ​(​i.e.,​ OH 316)
+* Piazza
+  * `ITP 20002-01`:  https://piazza.com/handong/fall2019/itp2000201
+  * `ITP 20002-02`:  https://piazza.com/handong/fall2019/itp2000202
+* Instructor: Shin Hong https://hongshin.github.io / hongshin@handong.edu
+* Teaching assistants ([pictures](https://arise.handong.edu))
+  * Jeewoong Kim jeewoong@handong.edu 
+  * Juyoung Jeon juyoungjeon@handong.edu 
+  * Hyerin Leem 
 * Class polices: [POLICY.md](POLICY.md)
 
 ### Course Objectives ###
-This course aims to equip beginner level Computer Science students with fundamental mathematic principles in Computer Science. It aims to articulate students in how to read, write, and discuss scientific facts, how to count or enumerate things, and how to reason scientific facts with discrete structures such as sets, relations, permutations, graphs, trees. Students are expected to understand how the fundamental concepts are applied to solve computing problems in real world.
+This course aims to equip beginner-level Computer Science students with fundamentals of mathematics essential for their major studies. This course is to articulate students in how to read and write technical descriptions in Computer Science effectively, in how to count or enumerate things, and in how to reason scientific facts with discrete structures such as sets, relations, permutations, graphs, and trees. Students are expected to understand how the fundamental concepts are applied to solve computing problems of real world.
 
-### Learning Materials ###
+### Materials ###
 #### Textbook ####
-[Discrete Mathematics and Its Applications, 7/E, Global Edition](http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=ENG&mallGb=ENG&barcode=9789814670135&orderClick=LAG&Kc=) authored by K. H. Rosen.  
-You can find this book in Handong Book on campus. It is **mandatory** for each class participants to equip this main textbook: it will be assumed that each student has a textbook for doing homework, team projects, etc.
-
-#### Online Channels ####
-* Piazza for news and Q&A: https://piazza.com/handong/fall2018/itp20002
-* [Hisnet](http://hisnet.handong.edu) for online attendance check & homework submission
-* This webpage for lecture note, resource for homework, etc.
+[Discrete Mathematics and Its Applications, 8/E, Global Edition](http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=ENG&mallGb=ENG&barcode=9789814670135&orderClick=LAG&Kc=) authored by K. H. Rosen.  
+You can find this book in Handong Book on campus. It is **mandatory** for every class participant to hold a copy this textbook: it will be assumed that every student is able to access a textbook for doing homework, team projects, etc.
 
 #### Lecture Notes  ####
-* [Course Overview (Aug 28)](notes/syllabus.pdf)  
-* [Chapter 1. Propositional Logic and Predicate Logic (Aug 31, Sep 4, Sep 11, Sep 14)](notes/Ch1-Logic.pdf)
-* [Quiz 1 (Sep 14)](notes/quiz1.pdf)
-* [Chapter 1. Inference Rules (Sep 18)](notes/Ch1-Inference-Rule.pdf)
-* [Chapter 1. Proofs (Sep 21)](notes/Ch1-Proof.pdf)
-  * [nqueen.c](notes/nqueen.c)
-  * [SMT solver Z3](https://github.com/Z3Prover/z3)
-* [Chapter 2. Set (Sep 28, Oct 2)](notes/Ch2-Set.pdf)
-* [Chapter 2. Function, Sequence, Cardinality (Oct 5, Oct 12)](notes/Ch2-Function.pdf)
-* [Chapter 3. Algorithm (Oct 16)](notes/Ch3-Algorithm.pdf)
-* [Chapter 3. Halting Problem (Oct 16)](notes/Ch3-HaltingProblem.pdf)
-* [Chapter 3. Asymptotic Computational Complexity (Oct 23)](notes/Ch3-AsymptoticComplexity.pdf)
-* [Midterm exam (Oct 26)](notes/problems.pdf)
-* [Chapter 5. Mathematical Induction and Recursion (Oct 30, Nov 2, Nov 6)](notes/Ch5.pdf)
-* [Chapter 6. Counting](notes/Ch6.pdf)
-* [Chapter 9. Relation](notes/Ch9.pdf)
-* [Chapter 7. Discrete Probability](notes/Chapter7.pptx)
-* [Final exam (Dec 12)](notes/final.pdf)
+* to be updated
+* c.f. [ITP 20002-02 Discrete Math, 2018 Fall](): exams, assignments, lecture notes (may be outdated)
 
 #### Assignments ####
-* [Book Reading Assignment (optional)](assignments/book.md)
-* [Programming Assignment 1. Solve Puzzles with Z3](assignments/pa1.pdf)
-* Assignment 2. Midterm Reload (by 1PM, Nov 2)
-* [Programming Assignment 2. Recursion and Fractals](assignments/pa2.pdf)
-	- Tree factral example: [tree.html](assignments/tree.html)
-* [Programming Assignment 3. Twitter network](assignments/pa3.pdf)
-	- [twitter_sampled.txt](assignments/twitter_sampled.txt)
-<!--
-Nov 09.  
-Nov 13.  
-Nov 16.  
-Nov 20.  
-Nov 23.  
-Nov 27.  
-Nov 30.   
-Dec 04.  
-Dec 07. Term project demo  
-Dec 11.  
-Dec 14. Final exam: written & programming exam  
--->
+* to be announced
+
+#### Useful references
+
+- [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html), Stanford University
+- [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/), MIT OCW
+- [Discrete Mathematics: An Open Introduction, 3/e](http://discrete.openmathbooks.org/dmoi3.html) by Oscar Levin
+- [ITP 20002-02 Discrete Math, 2018 Fall](): lecture note (may be outdated), assignments, etc.
+
+### Channels ###
+
+- [Piazza]() for news, Q&A, and online discussions
+  - `ITP 20002-01`:  https://piazza.com/handong/fall2019/itp2000201
+  - `ITP 20002-02`:  https://piazza.com/handong/fall2019/itp2000202
+- [Hisnet](http://hisnet.handong.edu) for attendance check & homework submission
+- [GitHub repository]() for sharing lecture note, resource for homework, etc.
+
+### Previous instances ### 
+
+[ITP 20002-02 Discrete Mathematics (Shin Hong), 2018 Fall]()
