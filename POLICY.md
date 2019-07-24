@@ -2,7 +2,7 @@ Class Policy
 =====
 ### Communication ###
 #### English ####
-English is the official language in this course. In a 100% English class, students must use English to produce all results including homework, assignment report, midterm and final exam answers; non-English parts will not be counted at all kinds of evaluations.
+English is the only official language in all activities of this course. In a 100% English class, students must use English to produce all results including homework, assignment report, midterm and final exam answers; non-English parts will not be counted at all kinds of evaluations.
 
 The instructors must use English in delivering class contents (e.g., lecture, assignments, exams). All class participants are highly recommended to use English as well in meeting time for asking questions and participating in discussion. To promote active participation in class time, class participants are allowed to use Korean for asking questions, yet in such cases, the instructor will repeat Korean sayings in English.
 
