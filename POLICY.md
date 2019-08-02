@@ -2,36 +2,35 @@ Class Policy
 =====
 ### Communication ###
 #### English ####
-English is the official language in the class. In a 100% English class, students are obligated to use English to produce all results including homework, assignment report, midterm and final exam answers. Parts that are not written in English will not be counted in all kinds of evaluations.
+English is the only official language in all activities of this course. In a 100% English class, students must use English to produce all results including homework, assignment report, midterm and final exam answers; non-English parts will not be counted at all kinds of evaluations.
 
-The instructors are ought to use English in delivering class contents. All class participants are highly recommended to use English as well in meeting time for asking questions and participating in discussion. To promote active participation in class time, class participants are allowed to use Korean for asking questions, yet in such cases, the instructor will repeat Korean sayings in English.
+The instructors must use English in delivering class contents (e.g., lecture, assignments, exams). All class participants are highly recommended to use English as well in meeting time for asking questions and participating in discussion. To promote active participation in class time, class participants are allowed to use Korean for asking questions, yet in such cases, the instructor will repeat Korean sayings in English.
 
 c.f. [Is Handong Global?](http://www.hgupress.com/news/articleView.html?idxno=6078) by Prof. Scott Lincoln
 
 #### Contact with Instructor ####
-**Questions**: Use Piazza: post a public question with proper tags. This is to share relevant Q&As across all class members. Note that the instructor and the TA will not response to a private message if your concern needs to be kept in private.
+**Questions**: Use Piazza: post a public question with proper tags. This is to share relevant Q&As across all class members. Note that the instructor and the TA will not response to a private message if it is free from a privacy issue.
 
-**Administrative requests**: Use Piazza: write a public post to make a claim for updating attendance check or discussion point. This is to make your claim tractable and also transparent. You can report to the instructor or TA if you find an false/invalid/unfair request of other students. For uploading a proof of an approved absence, you can write a private post to protect your private information secure.
+**Administrative requests**: Use Piazza: write a public post to make a claim for updating attendance check or discussion point. This policy is to make students' claims tractable and also transparent. A student can report to the instructor or TA if he/she find an false/invalid/unfair request of other students. For uploading a proof of an approved absence, students can write a private post to protect your private information secure.
 
-**Personal meeting**: You can have a meeting in person with the instructor to have academic
-advices. Submit an answer to the online pre-interview form at https://forms.gle/KbREJ1b5S13nD51V7. Upon the submitted answer, the instructor will send a reply to arrange the meeting. Note that the instructor will not accept personal meetings from 10 days before a midterm/final exam. 
+**Personal meeting**: Students can have a meeting in person with the instructor to have academic
+advices. To make an appointment with the instructor, submit an answer to the online pre-interview form at https://forms.gle/KbREJ1b5S13nD51V7. Upon the submitted answer, the instructor will send a reply to arrange the meeting. Note that the instructor will not accept any personal meeting when a midterm/final exam is close.
 
-**Improper solicitation**: All forms/trials of improper solicitations are strictly forbidden as declared in the Improper Solicitation and Graft Act (aka. *Kim Young-ran* Act), including the following case examples:
+**Improper solicitation**: All kinds of improper solicitations are strictly forbidden as declared in the Improper Solicitation and Graft Act (aka. *Kim Young-ran* Act). For example:
 
-1. Students cannot give a gift in any form to the instructor or the TA (even a can of coffee)
+1. Students cannot give a gift in any form to the instructor or TA (even a can of coffee)
    while they are officially students in Handong University
-1. Students can claim for correcting any error in evaluation, however they cannot ask the instructor/TA to change their gradings or any kind of evaluations
-1. Students cannot ask the instructor/TA any kind of unfair evaluations, even for exceptional cases. They must go to the Academic Affair Team to discuss their circumstances. Only upon the approval from the Academic Affair Team, the instructor can change the rule/policy for the specific students.
-
+1. Students cannot ask the instructor or TA to change their gradings or evaluation results. Meanwhile, students can claim for correcting errors in evaluation.
+1. Students cannot ask the instructor or TA any kind of unfair evaluations, even for exceptional cases. If you want to claim for an execute due to your exceptional circumstance, you must discuss the concern with the Student's Academic Affair Team. Only upon the official request from the Student's Academic Affair Team, the instructor may change the rule/policy for execuse.
 Any violation of these will be reported to the Academic Affair Team for treatments.  
 
 c.f. (1) [학교에서 알아야 할 김영란법 Q&A](http://tong.joins.com/archives/32930), (2) [학생들도 "청탁 마세요"](http://www.kunews.ac.kr/news/articleView.html?idxno=23393)
 
 #### Teaching assistant (TA) ####
-TAs of the course is primary to assist the instructor in conducting meetings, in supporting students for accomplishing assignments, and in processing educational materials such as grading exam/quizzes/assignments. In addition to this, TAs may offer *Help Hour*, a 1-hour weekly session for Q&A on the class material. Note that students cannot ask questions beyond the class material or ask personal help outside of the help hour.
+TAs of the course is primary to assist the instructor in conducting meetings, in supporting students for accomplishing assignments, and in processing educational materials such as grading exam/quizzes/assignments. In addition to these, TAs may offer *Help Hour*, a 1-hour weekly session for Q&A on the class material. Note that students cannot ask questions beyond the class material or ask personal help outside of the help hour.
 
 ### Meeting Attendance ###
-* In every meeting, each student should declare his/her attendance via online system (due to the rule by the Ministry of Education of the Korea government).
+* In every meeting, each student must declare his/her attendance via online system (due to the rule by the Ministry of Education of the Korea government).
   * Use Hisnet-NFC to declare your meeting attendance with your smartphone.
   * For any trouble of Hisnet-NFC, use Piazza to claim attendance by writing a private post with the `request` tag to Piazza
 * Approved absence (공인출석) is accepted only if (1) the instructor confirms that your case adheres to Act 8-34 of the HGU rule, and at the same time (3) you submit the proof
