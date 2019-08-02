@@ -1,17 +1,11 @@
 # Discrete Mathematics, 2019 Fall #
 
 ### Course information ###
-
-* Meetings
-  * `ITP 20002-01`:  1:00 PM--2:15 PM, Mon/Thu (NTH 313)
-  * `ITP 20002-02`:  4:00 PM--5:15 PM, Mon/Thu (AHN 313)
-  * TA's Help hour:  8PM-9PM, Mon ​a​t ​*​C​o​di​ng ​Sp​ac​e​*​ ​(​OH 316)
+* Meetings: <kbd>ITP 20002-01</kbd>: 1:00PM, M/Th (NTH 313) / <kbd>ITP 20002-02</kbd>: 4:00PM, M/Th (AHN 313)
+* TA's Help hour: 8-9PM, M ​a​t ​*​C​o​di​ng ​Sp​ac​e​*​ ​(​OH 316)
 * Piazza ([link](#channels))
 * Instructor: Shin Hong https://hongshin.github.io / hongshin@handong.edu
-* Teaching assistants ([pictures](https://arise.handong.edu))
-  * Jeewoong Kim jeewoong@handong.edu 
-  * Juyoung Jeon juyoungjeon@handong.edu 
-  * Hyerin Leem 
+* Teaching assistants: [Jeewoong Kim](jeewoong@handong.edu)/ [Juyoung Jeon](juyoungjeon@handong.edu) / Hyerin Leem ([pictures](https://arise.handong.edu))
 * Class polices: [POLICY.md](POLICY.md)
 
 ### Course objectives ###
