@@ -19,8 +19,8 @@ This course aims to equip beginner-level Computer Science students with fundamen
 
 ### Materials ###
 #### Textbook ####
-[Discrete Mathematics and Its Applications, 8/E, Global Edition](http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=ENG&mallGb=ENG&barcode=9789814670135&orderClick=LAG&Kc=) authored by K. H. Rosen.  
-You can find this book in Handong Book on campus. It is **mandatory** for every class participant to hold a copy this textbook: it will be assumed that every student is able to access a textbook for doing homework, team projects, etc.
+[Discrete Mathematics and Its Applications, 8/e](http://www.firstbook.kr/bbs/board.php?bo_table=books&wr_id=289) authored by Kenneth. H. Rosen  
+This book can be found in *Handong Book* on campus. It is **mandatory** for every class participant to hold one copy of this textbook: it will be assumed that every student is able to access a textbook for doing homework, team projects, etc.
 
 #### Lecture Notes  ####
 * to be updated
