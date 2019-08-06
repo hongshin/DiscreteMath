@@ -29,13 +29,14 @@ This book can be found in *Handong Book* on campus. It is **mandatory** for ever
 - [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html), Stanford University
 - [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/), MIT OCW
 - [Discrete Mathematics: An Open Introduction, 3/e](http://discrete.openmathbooks.org/dmoi3.html) by Oscar Levin
-- [ITP 20002-02 Discrete Math, 2018 Fall](): lecture note (may be outdated), assignments, etc.
+- [Programming and Mathematical Thinking: A Gentle Introduction to Discrete Math Featuring Python](http://webpages.math.luc.edu/~lauve/courses/215-fa2016/Stavely_python_ebook.pdf) by Allan M. Stavely  
+- [ITP 20002-02 Discrete Math, 2018 Fall](https://github.com/hongshin/DiscreteMath/tree/18fall): lecture note (may be outdated), assignments, etc.
 
 ### Online channels ###
 
 - [Piazza](https://piazza.com) for news, Q&A, and online discussions
-  - `ITP 20002-01`:  https://piazza.com/handong/fall2019/itp2000201
-  - `ITP 20002-02`:  https://piazza.com/handong/fall2019/itp2000202
+  - Class-01:  https://piazza.com/handong/fall2019/itp2000201
+  - Class-02:  https://piazza.com/handong/fall2019/itp2000202
 - [Hisnet](http://hisnet.handong.edu) for attendance check & homework submission
 - [GitHub repository](https://github.com/hongshin/DiscreteMath) for sharing lecture note, resource for homework, etc.
 
