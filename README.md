@@ -7,7 +7,11 @@
 * Teaching assistants: [Jeewoong Kim](jeewoong@handong.edu)/ [Juyoung Jeon](juyoungjeon@handong.edu) / Hyerin Leem ([pictures](https://arise.handong.edu))
 
 ### Course objectives ###
-This course aims to equip beginner-level Computer Science students with fundamentals of mathematics essential for their major studies. This course is to articulate students in how to read and write technical descriptions in Computer Science effectively, in how to count or enumerate things, and in how to reason scientific facts with discrete structures such as sets, relations, permutations, graphs, and trees. Students are expected to understand how the fundamental concepts are applied to solve computing problems of real world.
+This course aims to equip beginner-level, Computer Science major students with mathematical essentials for studying in Computer Science.
+It is designed to articulate students in reading technical descriptions on scientific statements effectively and
+in reasoning discrete mathematical structures (e.g. sets, relations, permutations, graphs, and trees) systematically.
+Throughout the course, students are expected to understand the concepts of the mathematical foundations of Computer Science clearly and 
+learn to practice these concepts in computational problem solvings of real-world.
 
 ### Class policies ###
 [POLICY.md](POLICY.md)
