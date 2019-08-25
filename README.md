@@ -2,7 +2,7 @@
 
 ### Course information ###
 * Meetings: **Class 01**: 1 PM of M/Th @ NTH 313 / **Class 02**: 4 PM of M/Th @ NTH 220
-* TA's Help hour: 8-9 PM, Mon @ *Coding Space* (OH 316)
+* TA's Help hour: TBD @ *Coding Space* (OH 316)
 * Instructor: Shin Hong https://hongshin.github.io / hongshin@handong.edu
 * Teaching assistants: [Jeewoong Kim](jeewoong@handong.edu)/ [Juyoung Jeon](juyoungjeon@handong.edu) / Hyerin Leem ([pictures](https://arise.handong.edu))
 
