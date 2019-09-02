@@ -22,6 +22,7 @@ learn to practice these concepts in computational problem solvings of real-world
 This book can be found in *Handong Book* on campus. It is **mandatory** for every class participant to hold a copy of this textbook: it will be assumed that every student is able to access the textbook by himself/herself anytime in this semester for doing homework, team projects, etc.
 
 #### Lecture Notes  ####
+* [Propositional logic (Sep 2)](notes/ch1+propositional+logic.pdf)
 * [Course Overview (Aug 26)](notes/course+overview.pdf)
 * c.f. [ITP 20002-02 Discrete Math, 2018 Fall](https://github.com/hongshin/DiscreteMath/tree/18fall): exams, assignments, lecture notes (may be outdated)
 
