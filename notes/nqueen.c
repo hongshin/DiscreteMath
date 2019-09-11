@@ -1,57 +1,100 @@
 #include <stdio.h>
 
-int main()
+int 
+min(int a, int b)
 {
-  int x, y ;
+	if (a > b)
+		return b ;
+	return a ;
+}
 
-  for (y = 1 ; y <= 8 ; y++)
-    for (x = 1 ; x <= 8 ; x++)
-      printf("(declare-const a%d%d Int)\n", y, x) ;
+int
+main ()
+{
+	int i, j, k ;
 
-      for (y = 1 ; y <= 8 ; y++)
-        for (x = 1 ; x <= 8 ; x++)
-          printf("(assert (and (<= a%d%d 1) (<= 0 a%d%d)))\n", y, x, y, x) ;
+	for (i = 1 ; i <= 8 ; i++)
+		for (j = 1 ; j <= 8 ; j++)
+			printf("(declare-const p%d%d Bool)\n", i, j) ;
 
-  printf("(assert(= (+ ") ;
-  for (y = 1 ; y <= 8 ; y++) 
-    for (x = 1 ; x <= 8 ; x++) 
-      printf("a%d%d ", y, x) ;
-  printf(") 5))\n") ;
+	// Q1
+	printf("; Q1\n") ;
+	printf("(assert (and ") ;
+	for (i = 1 ; i <= 8 ; i++) {
+		printf("(or ") ;
+		for (j = 1 ; j <= 8 ; j++) 
+			printf("p%d%d ", i, j) ;
+		printf(")") ;
+	}
+	printf("))\n") ;
 
-  for (y = 1 ; y <= 8 ; y++) {
-    for (x = 1 ; x <= 8 ; x++) {
-      int i_y, i_x ;
+	// Q2
+	printf("; Q2\n") ;
+	printf("(assert ") ;
+	printf("(and ") ;
+	for (i = 1 ; i <= 8 ; i++) {
+		printf("(and ") ;
+		for (j = 1 ; j <= 7 ; j++) {
+			printf("(and ") ;
+			for (k = j + 1 ; k <= 8 ; k++) {
+				printf("(not (and p%d%d p%d%d))", i, j, i, k) ;
+			}
+			printf(")") ;
+		}
+		printf(") ") ;
+	}
+	printf("))\n") ;
 
-      printf("(assert(<= (+ ") ;
-      for (i_y = 1 ; i_y <= 8 ; i_y++)
-        printf("a%d%d ", i_y, x) ;
-      printf(") 1))\n") ;
+	// Q3
+	printf("; Q3\n") ;
+	printf("(assert ") ;
+	printf("(and ") ;
+	for (i = 1 ; i <= 8 ; i++) {
+		printf("(and ") ;
+		for (j = 1 ; j <= 7 ; j++) {
+			printf("(and ") ;
+			for (k = j + 1 ; k <= 8 ; k++) {
+				printf("(not (and p%d%d p%d%d))", j, i, k, i) ;
+			}
+			printf(")") ;
+		}
+		printf(") ") ;
+	}
+	printf("))\n") ;
 
-      printf("(assert(<= (+ ") ;
-      for (i_x = 1 ; i_x <= 8 ; i_x++)
-        printf("a%d%d ", y, i_x) ;
-      printf(") 1))\n") ;
+	// Q4
+	printf("; Q4\n") ;
+	printf("(assert ") ;
+	printf("(and ") ;
+	for (i = 2 ; i <= 8 ; i++) {
+		printf("(and ") ;
+		for (j = 1 ; j <= 7 ; j++) {
+			printf("(and ") ;
+			for (k = 1 ; k <= min(i - 1, 8 - j) ; k++) {
+				printf("(not (and p%d%d p%d%d))", i, j, i - k, k + j) ;
+			}
+			printf(")") ;
+		}
+		printf(") ") ;
+	}
+	printf("))\n") ;
 
-      i_y = (y <= x) ? 1 : y - x + 1 ;
-      i_x = (x <= y) ? 1 : x - y + 1 ;
-      printf("(assert(<= (+ ") ;
-      while (i_x <= 8 && i_y <= 8) {
-        printf("a%d%d ", i_y, i_x) ;
-        i_y += 1 ;
-        i_x += 1 ;
-      }
-      printf(") 1))\n") ;
+	// Q5
+	printf("; Q5\n") ;
+	printf("(assert ") ;
+	printf("(and ") ;
+	for (i = 1 ; i <= 7 ; i++) {
+		printf("(and ") ;
+		for (j = 1 ; j <= 7 ; j++) {
+			printf("(and ") ;
+			for (k = 1 ; k <= min(8 - i, 8 - j) ; k++) {
+				printf("(not (and p%d%d p%d%d))", i, j, i + k, j + k) ;
+			}
+			printf(")") ;
+		}
+		printf(") ") ;
+	}
+	printf("))\n") ;
 
-      i_y = (x + y <= 8) ? 1 : y - 8 + x ;
-      i_x = (x + y > 8) ? 8 : x + y - 1 ;
-      printf("(assert(<= (+ ") ;
-      while (i_x >= 1 && i_y <= 8) {
-        printf("a%d%d ", i_y, i_x) ;
-        i_y += 1 ;
-        i_x -= 1 ;
-      }
-     printf(") 1))\n") ;
-    }
-  }
-  printf("(check-sat)\n(get-model)\n") ;
+	printf("(check-sat)\n(get-model)\n") ;
 }
