@@ -24,6 +24,7 @@ This book can be found in *Handong Book* on campus. It is **mandatory** for ever
 #### Lecture Notes  ####
 * [Predicate logic (Sep 10)](notes/ch1-predicate+logic.pdf)
 * [Propositional logic (Sep 2, Sep 5)](notes/ch1-propositional+logic.pdf)
+    - [Solving N-Queen with Z3 and Sudoku Puzzle](notes/ch1-propositional+logic+solver.pdf) [[nqueen.c](notes/nqueen.c)] [[parser.c](notes/parser.c)]
 * [Course Overview (Aug 26)](notes/course+overview.pdf)
 * c.f. [ITP 20002-02 Discrete Math, 2018 Fall](https://github.com/hongshin/DiscreteMath/tree/18fall): exams, assignments, lecture notes (may be outdated)
 
