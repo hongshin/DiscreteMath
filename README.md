@@ -8,8 +8,8 @@
 
 ### Course objectives ###
 This course aims to equip beginner-level undergraduate students studying Computer Science with mathematical essentials.
-It is designed to articulate students in reading and understanding technical descriptions soundly, and reasoning properties of 
-discrete structures (e.g. sets, relations, permutations, graphs, and trees) effectively.
+It is designed to articulate students in reading and writing technical descriptions soundly, and reasoning properties of 
+discrete structures (e.g. sets, relations, permutations, graphs, and trees) strategically.
 Students are expected through out the course to learn how to use mathematical languages to represent the foundamental concepts 
 of Computer Science clearly and to practice these to solve real-world computation problems.
 
