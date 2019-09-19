@@ -22,7 +22,8 @@ of Computer Science clearly and to practice these to solve real-world computatio
 This book can be found in *Handong Book* on campus. It is **mandatory** for every class participant to hold a copy of this textbook: it will be assumed that every student is able to access the textbook by himself/herself anytime in this semester for doing homework, team projects, etc.
 
 #### Lecture Notes  ####
-* [Rule of inference (Sep 16)](notes/ch1-inference.pdf)  
+* [Rule of inference (Sep 16, Sep 19)](notes/ch1-inference.pdf)  
+    - [N-Queens in Predicate Logic](notes/nqueen-LIA.c)
 * [Predicate logic (Sep 10, Sep 16)](notes/ch1-predicate+logic.pdf)
 * [Propositional logic (Sep 2, Sep 5)](notes/ch1-propositional+logic.pdf)
     - [solving N-Queen with Z3 and Sudoku Puzzle (Sep 11)](notes/ch1-propositional+logic+solver.pdf) [[nqueen.c](notes/nqueen.c)] [[parse.c](notes/parse.c)]
