@@ -24,7 +24,7 @@ This book can be found in *Handong Book* on campus. It is **mandatory** for ever
 #### Lecture Notes  ####
 * [Proof strategies (Sep 23)](notes/ch1-proof.pdf)
 * [Rule of inference (Sep 16, Sep 19)](notes/ch1-inference.pdf)  
-    - [N-Queens in Predicate Logic](notes/nqueen-LIA.c)
+    - [nqueen-LIA.c](notes/nqueen-LIA.c)
 * [Predicate logic (Sep 10, Sep 16)](notes/ch1-predicate+logic.pdf)
 * [Propositional logic (Sep 2, Sep 5)](notes/ch1-propositional+logic.pdf)
     - [solving N-Queen with Z3 and Sudoku Puzzle (Sep 11)](notes/ch1-propositional+logic+solver.pdf) [[nqueen.c](notes/nqueen.c)] [[parse.c](notes/parse.c)]
