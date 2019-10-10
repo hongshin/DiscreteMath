@@ -22,9 +22,9 @@ of Computer Science clearly and to practice these to solve real-world computatio
 This book can be found in *Handong Book* on campus. It is **mandatory** for every class participant to hold a copy of this textbook: it will be assumed that every student is able to access the textbook by himself/herself anytime in this semester for doing homework, team projects, etc.
 
 #### Lecture Notes  ####
-* [Cardinality](notes/ch2-cardinality.pdf)
-* [Sequence](notes/ch2-sequence.pdf)
-* [Function](notes/ch2-function.pdf)
+* [Cardinality (Oct 7, Oct 10)](notes/ch2-cardinality.pdf)
+* [Sequence (Oct 7)](notes/ch2-sequence.pdf)
+* [Function (Sep 30)](notes/ch2-function.pdf)
 * [Set (Sep 26)](notes/ch2-set.pdf)
 * [Proof strategies (Sep 23)](notes/ch1-proof.pdf)
 * [Rule of inference (Sep 16, Sep 19)](notes/ch1-inference.pdf)  
