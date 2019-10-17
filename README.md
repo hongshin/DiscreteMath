@@ -22,6 +22,7 @@ of Computer Science clearly and to practice these to solve real-world computatio
 This book can be found in *Handong Book* on campus. It is **mandatory** for every class participant to hold a copy of this textbook: it will be assumed that every student is able to access the textbook by himself/herself anytime in this semester for doing homework, team projects, etc.
 
 #### Lecture Notes  ####
+* [Algorithm (Oct 10, Oct 17)(notes/ch3-algorithm.pdf)
 * [Halting problem (Oct 14)](notes/ch3-halting+problem.pdf)
 * [Cardinality (Oct 7, Oct 10)](notes/ch2-cardinality.pdf)
 * [Sequence (Oct 7)](notes/ch2-sequence.pdf)
