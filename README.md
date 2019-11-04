@@ -39,6 +39,8 @@ This book can be found in *Handong Book* on campus. It is **mandatory** for ever
 * c.f. [ITP 20002-02 Discrete Math, 2018 Fall](https://github.com/hongshin/DiscreteMath/tree/18fall): exams, assignments, lecture notes (may be outdated)
 
 #### Assignments & Homework ####
+* PA2. Recursion [ [desc] ](assignments/programming+assignment+2.pdf)
+    - [ tree.html ](assignments/tree.html)
 * HW1. One More Puzzle with SMT Solver [ [desc] ](assignments/homework+1.pdf)  
 * PA1. Solve Puzzle with SMT Solver [ [desc] ](assignments/programming+assignment+1.pdf)  
 
