@@ -2,15 +2,16 @@
 <body>
 
 <input type="text" id="depth" value="">
+<input type="text" id="angle" value="20">
 <button onclick="doDraw()">Draw</button>
 <button onclick="doClear()">Clear</button>
 <br>
 <canvas id="canvas" width="600" height="500"></canvas>
 
 <script type="text/javascript">
+
 var elem = document.getElementById('canvas');
 var context = elem.getContext('2d');
-
 context.fillStyle = '#000';
 context.lineWidth = 1;
 
@@ -22,20 +23,23 @@ function drawLine(x1, y1, x2, y2){
   context.lineTo(x2, y2);
 }
 
-function drawTree(x1, y1, angle, depth){
+function drawTree(x1, y1, angle, depth, angle_d){
   if (depth !== 0){
     var x2 = x1 + (Math.cos(angle * deg_to_rad) * depth * 10.0);
     var y2 = y1 + (Math.sin(angle * deg_to_rad) * depth * 10.0);
+
     drawLine(x1, y1, x2, y2);
-    drawTree(x2, y2, angle - 20, depth - 1);
-    drawTree(x2, y2, angle + 20, depth - 1);
+    drawTree(x2, y2, angle - angle_d, depth - 1, angle_d);
+    drawTree(x2, y2, angle + angle_d, depth - 1, angle_d);
   }
 }
 
 function doDraw(){
   var depth = parseInt(document.getElementById("depth").value) ;
+  var angle_d = parseInt(document.getElementById('angle').value) ;
+  
   context.beginPath();
-  drawTree(300, 500, -90, depth);
+  drawTree(300, 500, -90, depth, angle_d);
   context.closePath();
   context.stroke();
 }
