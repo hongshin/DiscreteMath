@@ -22,9 +22,9 @@ of Computer Science clearly and to practice these to solve real-world computatio
 This book can be found in *Handong Book* on campus. It is **mandatory** for every class participant to hold a copy of this textbook: it will be assumed that every student is able to access the textbook by himself/herself anytime in this semester for doing homework, team projects, etc.
 
 #### Lecture Notes  ####
-* [Counting (Nov 11)](notes/ch6+counting.pdf)
-* [Recursion (Nov 4)](notes/ch+5-recursion.pdf)
-* [Induction (Oct 24, Oct 28)](notes/ch+5-induction.pdf)
+* [Counting (Nov 11)](notes/chapter+6.pdf)
+* [Recursion (Nov 4)](notes/chapter+5-recursion.pdf)
+* [Induction (Oct 24, Oct 28)](notes/chapter+5-induction.pdf)
 * Midterm (Oct 21) [[class-01](notes/midterm01.pdf)] [[class-02](notes/midterm02.pdf)]
 * [Algorithm (Oct 10, Oct 17)](notes/ch3+algorithm.pdf)
 * [Halting problem (Oct 14)](notes/ch3-halting+problem.pdf)
