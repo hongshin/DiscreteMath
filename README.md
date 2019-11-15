@@ -42,7 +42,7 @@ This book can be found in *Handong Book* on campus. It is **mandatory** for ever
 * c.f. [ITP 20002-02 Discrete Math, 2018 Fall](https://github.com/hongshin/DiscreteMath/tree/18fall): exams, assignments, lecture notes (may be outdated)
 
 #### Assignments & Homework ####
-* HW1. Converting Propositonal Formula to DNF [ [desc] ](assignments/homework+2.pdf)  
+* HW2. Converting Propositonal Formula to DNF [ [desc] ](assignments/homework+2.pdf)  
 * PA2. Recursion [ [desc] ](assignments/programming+assignment+2.pdf)
     - [ tree.html ](assignments/tree.html)
     - [ fractals of the 2018 class ](assignments/fractal2018.pdf)
