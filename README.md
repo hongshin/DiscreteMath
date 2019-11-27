@@ -42,6 +42,7 @@ This book can be found in *Handong Book* on campus. It is **mandatory** for ever
 * c.f. [ITP 20002-02 Discrete Math, 2018 Fall](https://github.com/hongshin/DiscreteMath/tree/18fall): exams, assignments, lecture notes (may be outdated)
 
 #### Assignments & Homework ####
+* PA3. Naive Bayes Text Classifier [ [desc] ](assignments/programming+assignment+3.pdf) [ [data & starter code] ](https://github.com/hongshin/DiscreteMath/tree/pa3)
 * HW2. Converting Propositonal Formula to DNF [ [desc] ](assignments/homework+2.pdf)  
 * PA2. Recursion [ [desc] ](assignments/programming+assignment+2.pdf)
     - [ tree.html ](assignments/tree.html)
