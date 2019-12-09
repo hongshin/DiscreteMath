@@ -22,6 +22,9 @@ of Computer Science clearly and to practice these to solve real-world computatio
 This book can be found in *Handong Book* on campus. It is **mandatory** for every class participant to hold a copy of this textbook: it will be assumed that every student is able to access the textbook by himself/herself anytime in this semester for doing homework, team projects, etc.
 
 #### Lecture Notes  ####
+* [Graph](notes/chapter+10+graph.pdf)
+* [Relation](notes/chapter+9+relation.pdf)
+* [Discrete Probability](notes/chapter+7+prob.pdf)
 * [Counting (Nov 11)](notes/chapter+6.pdf)
 * [Recursion (Nov 4)](notes/chapter+5-recursion.pdf)
 * [Induction (Oct 24, Oct 28)](notes/chapter+5-induction.pdf)
