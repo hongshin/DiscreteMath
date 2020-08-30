@@ -1,4 +1,4 @@
-# Discrete Mathematics, 2019 Fall #
+# Discrete Mathematics, Fall 2020 #
 
 ### Course information ###
 * Meeting time
