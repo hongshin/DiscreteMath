@@ -29,7 +29,7 @@ This book can be found in *Handong Book* on campus. It is **mandatory** for ever
 
 #### Lecture Notes  ####
 * [Solving Puzzles with SAT Solver](https://github.com/hongshin/DiscreteMath/blob/master/notes/ch1-propositional%2Blogic%2Bsolver.pdf) (11 Sep)
-	- [queen-SAT.c](https://github.com/hongshin/DiscreteMath/blob/master/notes/nqueen-SAT.c)
+	- [nqueen-SAT.c](https://github.com/hongshin/DiscreteMath/blob/master/notes/nqueen-SAT.c)
 * [Predicate Logic Basics](https://github.com/hongshin/DiscreteMath/blob/master/notes/ch1-predicate+logic.pdf) (7 Sep)
 * [Propositional Logic Basics](https://github.com/hongshin/DiscreteMath/blob/master/notes/ch1-propositional%2Blogic.pdf) (3 Sep)
 
