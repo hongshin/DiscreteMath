@@ -11,102 +11,119 @@ min(int a, int b)
 int
 main ()
 {
+	FILE * fp = fopen("formula", "w") ;
+
 	int i, j, k ;
 
 	for (i = 1 ; i <= 8 ; i++)
 		for (j = 1 ; j <= 8 ; j++)
-			printf("(declare-const p%d%d Bool)\n", i, j) ;
+			fprintf(fp,"(declare-const p%d%d Bool)\n", i, j) ;
 
 	// Q1
-	printf("; Q1\n") ;
-	printf("(assert (and ") ;
+	fprintf(fp,"; Q1\n") ;
+	fprintf(fp,"(assert (and ") ;
 	for (i = 1 ; i <= 8 ; i++) {
-		printf("(or ") ;
+		fprintf(fp,"(or ") ;
 		for (j = 1 ; j <= 8 ; j++) 
-			printf("p%d%d ", i, j) ;
-		printf(")") ;
+			fprintf(fp,"p%d%d ", i, j) ;
+		fprintf(fp,")") ;
 	}
-	printf("))\n") ;
+	fprintf(fp,"))\n") ;
 
 	// Q2
-	printf("; Q2\n") ;
-	printf("(assert ") ;
-	printf("(and ") ;
+	fprintf(fp,"; Q2\n") ;
+	fprintf(fp,"(assert ") ;
+	fprintf(fp,"(and ") ;
 	for (i = 1 ; i <= 8 ; i++) {
-		printf("(and ") ;
+		fprintf(fp,"(and ") ;
 		for (j = 1 ; j <= 7 ; j++) {
-			printf("(and ") ;
+			fprintf(fp,"(and ") ;
 			for (k = j + 1 ; k <= 8 ; k++) {
-				printf("(not (and p%d%d p%d%d))", i, j, i, k) ;
+				fprintf(fp,"(not (and p%d%d p%d%d))", i, j, i, k) ;
 			}
-			printf(")") ;
+			fprintf(fp,")") ;
 		}
-		printf(") ") ;
+		fprintf(fp,") ") ;
 	}
-	printf("))\n") ;
+	fprintf(fp,"))\n") ;
 
 	// Q3
-	printf("; Q3\n") ;
-	printf("(assert (and ") ;
+	fprintf(fp,"; Q3\n") ;
+	fprintf(fp,"(assert (and ") ;
 	for (j = 1 ; j <= 8 ; j++) {
-		printf("(or ") ;
+		fprintf(fp,"(or ") ;
 		for (i = 1 ; i <= 8 ; i++) 
-			printf("p%d%d ", i, j) ;
-		printf(")") ;
+			fprintf(fp,"p%d%d ", i, j) ;
+		fprintf(fp,")") ;
 	}
-	printf("))\n") ;
+	fprintf(fp,"))\n") ;
 
 	// Q4
-	printf("; Q4\n") ;
-	printf("(assert ") ;
-	printf("(and ") ;
+	fprintf(fp,"; Q4\n") ;
+	fprintf(fp,"(assert ") ;
+	fprintf(fp,"(and ") ;
 	for (i = 1 ; i <= 8 ; i++) {
-		printf("(and ") ;
+		fprintf(fp,"(and ") ;
 		for (j = 1 ; j <= 7 ; j++) {
-			printf("(and ") ;
+			fprintf(fp,"(and ") ;
 			for (k = j + 1 ; k <= 8 ; k++) {
-				printf("(not (and p%d%d p%d%d))", j, i, k, i) ;
+				fprintf(fp,"(not (and p%d%d p%d%d))", j, i, k, i) ;
 			}
-			printf(")") ;
+			fprintf(fp,")") ;
 		}
-		printf(") ") ;
+		fprintf(fp,") ") ;
 	}
-	printf("))\n") ;
+	fprintf(fp,"))\n") ;
 
 	// Q5
-	printf("; Q5\n") ;
-	printf("(assert ") ;
-	printf("(and ") ;
+	fprintf(fp,"; Q5\n") ;
+	fprintf(fp,"(assert ") ;
+	fprintf(fp,"(and ") ;
 	for (i = 2 ; i <= 8 ; i++) {
-		printf("(and ") ;
+		fprintf(fp,"(and ") ;
 		for (j = 1 ; j <= 7 ; j++) {
-			printf("(and ") ;
+			fprintf(fp,"(and ") ;
 			for (k = 1 ; k <= min(i - 1, 8 - j) ; k++) {
-				printf("(not (and p%d%d p%d%d))", i, j, i - k, k + j) ;
+				fprintf(fp,"(not (and p%d%d p%d%d))", i, j, i - k, k + j) ;
 			}
-			printf(")") ;
+			fprintf(fp,")") ;
 		}
-		printf(") ") ;
+		fprintf(fp,") ") ;
 	}
-	printf("))\n") ;
+	fprintf(fp,"))\n") ;
 
 	// Q6
-	printf("; Q6\n") ;
-	printf("(assert ") ;
-	printf("(and ") ;
+	fprintf(fp,"; Q6\n") ;
+	fprintf(fp,"(assert ") ;
+	fprintf(fp,"(and ") ;
 	for (i = 1 ; i <= 7 ; i++) {
-		printf("(and ") ;
+		fprintf(fp,"(and ") ;
 		for (j = 1 ; j <= 7 ; j++) {
-			printf("(and ") ;
+			fprintf(fp,"(and ") ;
 			for (k = 1 ; k <= min(8 - i, 8 - j) ; k++) {
-				printf("(not (and p%d%d p%d%d))", i, j, i + k, j + k) ;
+				fprintf(fp,"(not (and p%d%d p%d%d))", i, j, i + k, j + k) ;
 			}
-			printf(")") ;
+			fprintf(fp,")") ;
 		}
-		printf(") ") ;
+		fprintf(fp,") ") ;
 	}
-	printf("))\n") ;
+	fprintf(fp,"))\n") ;
 
-	printf("(check-sat)\n(get-model)\n") ;
+	fprintf(fp,"(check-sat)\n(get-model)\n") ;
+
+	fclose(fp) ;
+
+	FILE * fin = popen("z3 formula", "r") ;
+	char buf[128] ;
+	fscanf(fin, "%s %s", buf, buf) ;
+	while (!feof(fin)) {
+		fscanf(fin, "%s", buf) ; printf("%s ", buf) ;
+		fscanf(fin, "%s", buf) ; printf("%s ", buf) ;
+		fscanf(fin, "%s", buf) ; printf("%s ", buf) ;
+		fscanf(fin, "%s", buf) ; printf("%s ", buf) ;
+		fscanf(fin, "%s", buf) ; printf("%s\n", buf) ;
+	}
+	pclose(fin) ;
+
 }
 
