@@ -28,6 +28,8 @@ real-world.
 This book can be found in *Handong Book* on campus. It is **mandatory** for every class participant to hold a copy of this textbook: it will be assumed that every student is able to access the textbook by himself/herself anytime in this semester for doing homework, team projects, etc.
 
 #### Lecture Notes  ####
+* [Proof](https://github.com/hongshin/DiscreteMath/blob/master/notes/ch1-proof.pdf) (18 Sep)
+* [Rules of inference](https://github.com/hongshin/DiscreteMath/blob/master/notes/ch1-inference.pdf) (14 Sep)
 * [Solving Puzzles with SAT Solver](https://github.com/hongshin/DiscreteMath/blob/master/notes/ch1-propositional%2Blogic%2Bsolver.pdf) (11 Sep)
 	- [nqueen-SAT.c](https://github.com/hongshin/DiscreteMath/blob/master/notes/nqueen-SAT.c)
 * [Predicate Logic Basics](https://github.com/hongshin/DiscreteMath/blob/master/notes/ch1-predicate+logic.pdf) (7 Sep)
