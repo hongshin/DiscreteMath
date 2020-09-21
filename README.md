@@ -40,7 +40,7 @@ This book can be found in *Handong Book* on campus. It is **mandatory** for ever
   : exams, assignments, lecture notes, etc.
 
 #### Assignments & Homework ####
-To be posted here.  
+* [Homework 1. Solve Grid Puzzles using SAT Solver](https://github.com/hongshin/DiscreteMath/blob/master/assignments/homework1.pdf)
 
 
 #### Useful references
