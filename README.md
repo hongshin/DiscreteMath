@@ -35,15 +35,14 @@ This book can be found in *Handong Book* on campus. It is **mandatory** for ever
 * [Predicate Logic Basics](https://github.com/hongshin/DiscreteMath/blob/master/notes/ch1-predicate+logic.pdf) (7 Sep)
 * [Propositional Logic Basics](https://github.com/hongshin/DiscreteMath/blob/master/notes/ch1-propositional%2Blogic.pdf) (3 Sep)
 
-* c.f.  
-  [ITP 20002 Discrete Math, 2019 Fall](https://github.com/hongshin/DiscreteMath/tree/2019fall)
+* c.f. [ITP 20002 Discrete Math, 2019 Fall](https://github.com/hongshin/DiscreteMath/tree/2019fall)
   : exam,  assignments, lecture notes, etc.  
   c.f. [ITP 20002 Discrete Math, 2018 Fall](https://github.com/hongshin/DiscreteMath/tree/18fall)
   : exams, assignments, lecture notes, etc.
 
 #### Assignments & Homework ####
 * [Homework 1. Solve Grid Puzzles using SAT Solver](https://github.com/hongshin/DiscreteMath/blob/master/assignments/homework1.pdf)
-
+	- report template: [report.docx](github.com/hongshin/DiscreteMath/blob/master/assignments/report.docx)
 
 #### Useful references
 
