@@ -28,6 +28,7 @@ real-world.
 This book can be found in *Handong Book* on campus. It is **mandatory** for every class participant to hold a copy of this textbook: it will be assumed that every student is able to access the textbook by himself/herself anytime in this semester for doing homework, team projects, etc.
 
 #### Lecture Notes  ####
+* [Set](https://github.com/hongshin/DiscreteMath/blob/master/notes/ch2-set.pdf) (21 Sep)
 * [Proof](https://github.com/hongshin/DiscreteMath/blob/master/notes/ch1-proof.pdf) (18 Sep)
 * [Rules of inference](https://github.com/hongshin/DiscreteMath/blob/master/notes/ch1-inference.pdf) (14 Sep)
 * [Solving Puzzles with SAT Solver](https://github.com/hongshin/DiscreteMath/blob/master/notes/ch1-propositional%2Blogic%2Bsolver.pdf) (11 Sep)
@@ -45,7 +46,6 @@ This book can be found in *Handong Book* on campus. It is **mandatory** for ever
 	- report template: [report.docx](https://github.com/hongshin/DiscreteMath/blob/master/assignments/report.docx)
 
 #### Useful references
-
 - [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html), Stanford University
 - [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/), MIT OCW
 - [Discrete Mathematics: An Open Introduction, 3/e](http://discrete.openmathbooks.org/dmoi3.html) by Oscar Levin
