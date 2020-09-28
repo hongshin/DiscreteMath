@@ -28,6 +28,8 @@ real-world.
 This book can be found in *Handong Book* on campus. It is **mandatory** for every class participant to hold a copy of this textbook: it will be assumed that every student is able to access the textbook by himself/herself anytime in this semester for doing homework, team projects, etc.
 
 #### Lecture Notes  ####
+* [Sequence](https://github.com/hongshin/DiscreteMath/blob/master/notes/ch2-sequence.pdf) (28 Sep)
+* [Function](https://github.com/hongshin/DiscreteMath/blob/master/notes/ch2-function.pdf) (25 Sep)
 * [Set](https://github.com/hongshin/DiscreteMath/blob/master/notes/ch2-set.pdf) (21 Sep)
 * [Proof](https://github.com/hongshin/DiscreteMath/blob/master/notes/ch1-proof.pdf) (18 Sep)
 * [Rules of inference](https://github.com/hongshin/DiscreteMath/blob/master/notes/ch1-inference.pdf) (14 Sep)
