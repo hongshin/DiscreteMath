@@ -46,6 +46,8 @@ This book can be found in *Handong Book* on campus. It is **mandatory** for ever
 #### Assignments & Homework ####
 * [Homework 1. Solve Grid Puzzles using SAT Solver](https://github.com/hongshin/DiscreteMath/blob/master/assignments/homework1.pdf)
 	- report template: [report.docx](https://github.com/hongshin/DiscreteMath/blob/master/assignments/report.docx)
+* [Homework 2. Set Representation](https://github.com/hongshin/DiscreteMath/blob/master/assignments/homework2.pdf)
+	- baseline code: [link](https://github.com/hongshin/DiscreteMath/tree/homework2)
 
 #### Useful references
 - [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html), Stanford University
