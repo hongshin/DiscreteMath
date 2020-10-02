@@ -12,7 +12,10 @@ intset_alloc (int * univ, size_t n_univ)
 	s->univ = univ ;
 	s->n_univ = n_univ ;
 
-	s->bitvect = (unsigned char *) malloc(n_univ / 8 + (n_univ % 8) ? 1 : 0) ;
+	size_t bitvect_len = n_univ / 8 + (n_univ % 8) ? 1 : 0 ;
+
+	s->bitvect = (unsigned char *) malloc(bitvect_len) ;
+	memset(s->bitvect, 0, bitvect_len) ;
 	s->n_elems = 0 ;
 	return s ;
 }
@@ -67,7 +70,6 @@ intset_add (intset * s, int e)
  * insert a new integer value e to s.
  * return 0 if succeeded. return 1 if it fails.
  * 
- * hint: use realloc.
  */
 {
 	/* TODO*/
@@ -79,9 +81,6 @@ intset_remove (intset * s, int e)
  * remomve e from s.
  * return 0 if succeeded. return 1 if failed.
  *
- * s->elems must be set to NULL if s->n_elems == 0.
- *
- * hint: use realloc.
  */
 {
 	/* TODO*/

@@ -19,7 +19,14 @@ intset_clone (intset * orig)
 	if (orig == 0x0)
 		return 0x0 ;
 
-	intset * s = intset_alloc(orig->elems, orig->n_elems) ;
+	intset * s = intset_alloc() ;
+	
+	s->n_elems = orig->n_elems ;
+	s->elems = 0x0 ;
+	if (s->n_elems > 0) {
+		s->elems = (int *) calloc(s->n_elems, sizeof(int)) ;
+		memcpy(s->elems, s->elems, s->n_elems * sizeof(int)) ;
+	}
 	return s ;
 }
 
@@ -56,7 +63,7 @@ intset_add (intset * s, int e)
  * insert a new integer value e to s.
  * return 0 if succeeded. return 1 if it fails.
  * 
- * hint: use realloc.
+ * hint: use realloc. note that s->elems is NULL when it has no element.
  */
 {
 	/* TODO*/
