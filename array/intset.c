@@ -25,7 +25,7 @@ intset_clone (intset * orig)
 	s->elems = 0x0 ;
 	if (s->n_elems > 0) {
 		s->elems = (int *) calloc(s->n_elems, sizeof(int)) ;
-		memcpy(s->elems, s->elems, s->n_elems * sizeof(int)) ;
+		memcpy(s->elems, orig->elems, s->n_elems * sizeof(int)) ;
 	}
 	return s ;
 }
