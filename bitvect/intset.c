@@ -12,7 +12,7 @@ intset_alloc (int * univ, size_t n_univ)
 	s->univ = univ ;
 	s->n_univ = n_univ ;
 
-	size_t bitvect_len = n_univ / 8 + (n_univ % 8) ? 1 : 0 ;
+	size_t bitvect_len = n_univ / 8 + ((n_univ % 8) ? 1 : 0) ;
 
 	s->bitvect = (unsigned char *) malloc(bitvect_len) ;
 	memset(s->bitvect, 0, bitvect_len) ;
