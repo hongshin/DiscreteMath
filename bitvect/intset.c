@@ -28,7 +28,7 @@ intset_clone (intset * orig)
 
 	intset * s ;
 	s = intset_alloc(orig->univ, orig->n_univ) ;
-	memcpy(s->bitvect, orig->bitvect, orig->n_univ / 8 + (orig->n_univ % 8) ? 1 : 0) ;
+	memcpy(s->bitvect, orig->bitvect, orig->n_univ / 8 + ((orig->n_univ % 8) ? 1 : 0)) ;
 	s->n_elems = orig->n_elems ;
 
 	return s ;
