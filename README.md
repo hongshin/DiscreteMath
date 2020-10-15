@@ -28,6 +28,9 @@ real-world.
 This book can be found in *Handong Book* on campus. It is **mandatory** for every class participant to hold a copy of this textbook: it will be assumed that every student is able to access the textbook by himself/herself anytime in this semester for doing homework, team projects, etc.
 
 #### Lecture Notes  ####
+* [Recursion](https://github.com/hongshin/DiscreteMath/blob/master/notes/ch5-recursion.pdf) (15 Oct)
+* [Induction](https://github.com/hongshin/DiscreteMath/blob/master/notes/ch5-induction.pdf) (11 Oct)
+* [Set Cardinality](https://github.com/hongshin/DiscreteMath/blob/master/notes/ch2-cardinality.pdf) (4 Oct)
 * [Sequence](https://github.com/hongshin/DiscreteMath/blob/master/notes/ch2-sequence.pdf) (28 Sep)
 * [Function](https://github.com/hongshin/DiscreteMath/blob/master/notes/ch2-function.pdf) (25 Sep)
 * [Set](https://github.com/hongshin/DiscreteMath/blob/master/notes/ch2-set.pdf) (21 Sep)
@@ -41,7 +44,8 @@ This book can be found in *Handong Book* on campus. It is **mandatory** for ever
 * c.f. [ITP 20002 Discrete Math, 2019 Fall](https://github.com/hongshin/DiscreteMath/tree/2019fall)
   : exam,  assignments, lecture notes, etc.  
   c.f. [ITP 20002 Discrete Math, 2018 Fall](https://github.com/hongshin/DiscreteMath/tree/18fall)
-  : exams, assignments, lecture notes, etc.
+  : exams, assignments, lecture notes, etc.  
+  c.f. [Collections of Previous Exams](https://github.com/hongshin/DiscreteMath/blob/master/notes/exams.zip)
 
 #### Assignments & Homework ####
 * [Homework 3. Cardinality and Countability](https://github.com/hongshin/DiscreteMath/blob/master/assignments/homework3.pdf)
