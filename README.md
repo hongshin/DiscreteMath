@@ -44,6 +44,7 @@ This book can be found in *Handong Book* on campus. It is **mandatory** for ever
   : exams, assignments, lecture notes, etc.
 
 #### Assignments & Homework ####
+* [Homework 3. Cardinality and Countability](https://github.com/hongshin/DiscreteMath/blob/master/assignments/homework3.pdf)
 * [Homework 2. Set Representation](https://github.com/hongshin/DiscreteMath/blob/master/assignments/homework2.pdf)
 	- baseline code: [\[link\]](https://github.com/hongshin/DiscreteMath/tree/homework2)
 * [Homework 1. Solve Grid Puzzles using SAT Solver](https://github.com/hongshin/DiscreteMath/blob/master/assignments/homework1.pdf)
