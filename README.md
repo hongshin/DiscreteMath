@@ -22,7 +22,7 @@ real-world.
 ### Class policies ###
 [POLICY.md](POLICY.md)
 
-### Midterm Practice ###
+### Midterm practice ###
 * Sample answer sheet: [link](https://github.com/hongshin/DiscreteMath/blob/master/notes/practice-answer.pdf)
 * Sample problem sheet: [link](https://github.com/hongshin/DiscreteMath/blob/master/notes/practice-problem.pdf)
 * Submission site: [link](https://forms.gle/Nxy3expFxhqXHxFF9)
