@@ -23,8 +23,8 @@ real-world.
 [POLICY.md](POLICY.md)
 
 ### Midterm practice ###
-* Sample answer sheet: [link](https://github.com/hongshin/DiscreteMath/blob/master/notes/practice-answer.pdf)
-* Sample problem sheet: [link](https://github.com/hongshin/DiscreteMath/blob/master/notes/practice-problem.pdf)
+* Sample answer sheet: [link](https://github.com/hongshin/DiscreteMath/blob/master/notes/sample-answer.pdf)
+* Sample problem sheet: [link](https://github.com/hongshin/DiscreteMath/blob/master/notes/sample-problem.pdf)
 * Submission site: [link](https://forms.gle/Nxy3expFxhqXHxFF9)
 
 
