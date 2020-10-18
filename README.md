@@ -27,7 +27,12 @@ real-world.
 [Discrete Mathematics and Its Applications, 8/e](http://www.firstbook.kr/bbs/board.php?bo_table=books&wr_id=289) authored by Kenneth. H. Rosen  
 This book can be found in *Handong Book* on campus. It is **mandatory** for every class participant to hold a copy of this textbook: it will be assumed that every student is able to access the textbook by himself/herself anytime in this semester for doing homework, team projects, etc.
 
-#### Lecture Notes  ####
+### Midterm Practice ###
+* Sample answer sheet: [link](https://github.com/hongshin/DiscreteMath/blob/master/notes/practice-answer.pdf)
+* Sample problem sheet: [link](https://github.com/hongshin/DiscreteMath/blob/master/notes/practice-problem.pdf)
+* Submission site: [link](https://forms.gle/Nxy3expFxhqXHxFF9)
+
+#### Lecture Notes  ####   
 * [Recursion](https://github.com/hongshin/DiscreteMath/blob/master/notes/ch5+recursion.pdf) (15 Oct)
 * [Induction](https://github.com/hongshin/DiscreteMath/blob/master/notes/ch5+induction.pdf) (11 Oct)
 * [Set Cardinality](https://github.com/hongshin/DiscreteMath/blob/master/notes/ch2-cardinality.pdf) (4 Oct)
