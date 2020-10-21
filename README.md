@@ -22,6 +22,9 @@ real-world.
 ### Class policies ###
 [POLICY.md](POLICY.md)
 
+### Midterm 🔔 ###
+* [Answer sheet](https://github.com/hongshin/DiscreteMath/blob/master/notes/answer.pdf)
+
 ### Materials ###
 #### Textbook ####
 [Discrete Mathematics and Its Applications, 8/e](http://www.firstbook.kr/bbs/board.php?bo_table=books&wr_id=289) authored by Kenneth. H. Rosen  
