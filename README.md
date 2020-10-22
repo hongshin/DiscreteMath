@@ -24,6 +24,7 @@ real-world.
 
 ### Midterm 🔔 ###
 * [Answer sheet](https://github.com/hongshin/DiscreteMath/blob/master/notes/answer.pdf)
+* [Submission site](https://forms.gle/9QZKyAie4Q72Y5Pi8) (requires Handong sign in)
 
 ### Materials ###
 #### Textbook ####
