@@ -22,9 +22,10 @@ real-world.
 ### Class policies ###
 [POLICY.md](POLICY.md)
 
-### Midterm 🔔 ###
+### Midterm ###
 * [Answer sheet](https://github.com/hongshin/DiscreteMath/blob/master/notes/answer.pdf)
 * [Submission site](https://forms.gle/9QZKyAie4Q72Y5Pi8) (requires Handong sign in)
+* [Problems](https://github.com/hongshin/DiscreteMath/blob/master/notes/problems.pdf) 🔔
 
 ### Materials ###
 #### Textbook ####
