@@ -11,14 +11,11 @@ main ()
 
 	stemmer = sb_stemmer_new("english", 0x0) ;
 
-	do {
+	while (scanf("%s", buf) != EOF) {
 		const char * s ;
-
-		scanf("%s", buf) ;
-
 		s = sb_stemmer_stem(stemmer, buf, strlen(buf)) ;
 		printf("%s\n", s) ;
-	} while (strcmp(buf, "exit") != 0) ;
+	} 
 
 	sb_stemmer_delete(stemmer) ;
 }

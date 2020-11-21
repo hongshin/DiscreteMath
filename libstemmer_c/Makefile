@@ -2,6 +2,7 @@ include mkinc.mak
 CFLAGS=-O2
 CPPFLAGS=-Iinclude
 all: libstemmer.o stemwords
+	cp libstemmer.o ../lib
 libstemmer.o: $(snowball_sources:.c=.o)
 	$(AR) -cru $@ $^
 stemwords: examples/stemwords.o libstemmer.o
