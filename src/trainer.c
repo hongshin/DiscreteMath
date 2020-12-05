@@ -139,9 +139,8 @@ int main(int argc, char* argv[]){
 			continue;
 		}	
         }
-
-	printf("[DEBUG]index: %d\n", index);
-//	b_Sort(word, index);
+	fclose(fin);
+	fclose(fin2);
 
 	FILE * trainer = fopen("trainer", "w");
 
@@ -154,7 +153,12 @@ int main(int argc, char* argv[]){
 			fprintf(trainer, " %d %d\n", word[i]->p_num, word[i]->n_num);
 		}
 	}
-		
+	
+	fclose(trainer);	
+	for(int i=0; i<index; i++){
+		free(word[i]);
+	}
+
 	return 0;
 }
 
