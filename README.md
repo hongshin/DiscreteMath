@@ -33,6 +33,7 @@ real-world.
 This book can be found in *Handong Book* on campus. It is **mandatory** for every class participant to hold a copy of this textbook: it will be assumed that every student is able to access the textbook by himself/herself anytime in this semester for doing homework, team projects, etc.
 
 #### Lecture Notes  ####   
+* [Graph](https://github.com/hongshin/DiscreteMath/blob/master/notes/ch10+graph.pdf) 
 * [Relation](https://github.com/hongshin/DiscreteMath/blob/master/notes/ch9+relation.pdf) 
 * [Probability](https://github.com/hongshin/DiscreteMath/blob/master/notes/ch7+prob.pdf) 
 * [Counting](https://github.com/hongshin/DiscreteMath/blob/master/notes/ch6+counting.pdf) 
