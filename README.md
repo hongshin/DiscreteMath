@@ -57,8 +57,10 @@ This book can be found in *Handong Book* on campus. It is **mandatory** for ever
   c.f. [Collections of Previous Exams](https://github.com/hongshin/DiscreteMath/blob/master/notes/exams.zip)
 
 #### Assignments & Homework ####
+* [Homework 5. Graph Algorithms](https://github.com/hongshin/DiscreteMath/blob/master/assignments/homework5.pdf)
+	- baseline code: [\[link\]](https://github.com/hongshin/DiscreteMath/tree/hw5)
 * [Homework 4. Naive Bayes Text Classifier](https://github.com/hongshin/DiscreteMath/blob/master/assignments/homework4.pdf)
-	- baseline code: [\[link\]](https://github.com/hongshin/DiscreteMath/tree/homework4)
+	- baseline code: [\[link\]](https://github.com/hongshin/DiscreteMath/tree/hw4)
 * [Homework 3. Cardinality and Countability](https://github.com/hongshin/DiscreteMath/blob/master/assignments/homework3.pdf)
 * [Homework 2. Set Representation](https://github.com/hongshin/DiscreteMath/blob/master/assignments/homework2.pdf)
 	- baseline code: [\[link\]](https://github.com/hongshin/DiscreteMath/tree/homework2)
