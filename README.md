@@ -24,7 +24,7 @@ real-world.
 
 ### Final Exam :bell: ### 
 * Problem set: To be announced 
-* Answersheet: [PDF](https://github.com/hongshin/DiscreteMath/blob/master/notes/final+exam+answer.pdf)
+* Answersheet: [PDF](https://github.com/hongshin/DiscreteMath/blob/master/notes/final+answersheet.pdf)
 * Submission: To be announced
 
 
