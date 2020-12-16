@@ -22,6 +22,12 @@ real-world.
 ### Class policies ###
 [POLICY.md](POLICY.md)
 
+### Final Exam :bell: ### 
+* Problem set: To be announced 
+* Answersheet: [PDF](https://github.com/hongshin/DiscreteMath/blob/master/notes/final+exam+answer.pdf)
+* Submission: To be announced
+
+
 ### Materials ###
 #### Textbook ####
 [Discrete Mathematics and Its Applications, 8/e](http://www.firstbook.kr/bbs/board.php?bo_table=books&wr_id=289) authored by Kenneth. H. Rosen  
