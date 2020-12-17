@@ -22,27 +22,18 @@ real-world.
 ### Class policies ###
 [POLICY.md](POLICY.md)
 
-### Final Exam :bell: ### 
-* Problem set: [PDf](https://github.com/hongshin/DiscreteMath/blob/master/notes/final+problems.pdf)
-* Answersheet: [PDF](https://github.com/hongshin/DiscreteMath/blob/master/notes/final+answersheet.pdf)
-* Submission: [Link](https://forms.gle/XdKStHNMjGPZLJTu8) (Requires Handong Google account sign-in)
-
-
 ### Materials ###
 #### Textbook ####
 [Discrete Mathematics and Its Applications, 8/e](http://www.firstbook.kr/bbs/board.php?bo_table=books&wr_id=289) authored by Kenneth. H. Rosen  
 This book can be found in *Handong Book* on campus. It is **mandatory** for every class participant to hold a copy of this textbook: it will be assumed that every student is able to access the textbook by himself/herself anytime in this semester for doing homework, team projects, etc.
 
-#### Lecture Notes  ####   
+#### Lecture Notes  #### 
 * [Graph](https://github.com/hongshin/DiscreteMath/blob/master/notes/ch10+graph.pdf) 
 * [Relation](https://github.com/hongshin/DiscreteMath/blob/master/notes/ch9+relation.pdf) 
 * [Probability](https://github.com/hongshin/DiscreteMath/blob/master/notes/ch7+prob.pdf) 
 * [Counting](https://github.com/hongshin/DiscreteMath/blob/master/notes/ch6+counting.pdf) 
 * [Halting Problem](https://github.com/hongshin/DiscreteMath/blob/master/notes/halting+problem.pdf)
 * [Algorithm](https://github.com/hongshin/DiscreteMath/blob/master/notes/ch3+algorithm.pdf) 
-* [Midterm Exam](https://github.com/hongshin/DiscreteMath/blob/master/notes/problems.pdf) (16 Oct)
-	- [Problem set](https://github.com/hongshin/DiscreteMath/blob/master/notes/problems.pdf)
-	- [Answer sheet](https://github.com/hongshin/DiscreteMath/blob/master/notes/answer.pdf)
 * [Recursion](https://github.com/hongshin/DiscreteMath/blob/master/notes/ch5+recursion.pdf) (15 Oct)
 * [Induction](https://github.com/hongshin/DiscreteMath/blob/master/notes/ch5+induction.pdf) (11 Oct)
 * [Set Cardinality](https://github.com/hongshin/DiscreteMath/blob/master/notes/ch2-cardinality.pdf) (4 Oct)
@@ -61,6 +52,14 @@ This book can be found in *Handong Book* on campus. It is **mandatory** for ever
   c.f. [ITP 20002 Discrete Math, 2018 Fall](https://github.com/hongshin/DiscreteMath/tree/18fall)
   : exams, assignments, lecture notes, etc.  
   c.f. [Collections of Previous Exams](https://github.com/hongshin/DiscreteMath/blob/master/notes/exams.zip)
+
+#### Exams ####
+* Final exam (17 Dec)
+	- [Problem set](https://github.com/hongshin/DiscreteMath/blob/master/notes/final+problems.pdf)
+	- [Answer sheet](https://github.com/hongshin/DiscreteMath/blob/master/notes/final+answersheet.pdf)
+* Midterm exam (16 Oct)
+	- [Problem set](https://github.com/hongshin/DiscreteMath/blob/master/notes/problems.pdf)
+	- [Answer sheet](https://github.com/hongshin/DiscreteMath/blob/master/notes/answer.pdf)
 
 #### Assignments & Homework ####
 * [Homework 5. Graph Algorithms](https://github.com/hongshin/DiscreteMath/blob/master/assignments/homework5.pdf)
