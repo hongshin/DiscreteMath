@@ -23,9 +23,9 @@ real-world.
 [POLICY.md](POLICY.md)
 
 ### Final Exam :bell: ### 
-* Problem set: To be announced 
+* Problem set: [PDf](https://github.com/hongshin/DiscreteMath/blob/master/notes/final+problems.pdf)
 * Answersheet: [PDF](https://github.com/hongshin/DiscreteMath/blob/master/notes/final+answersheet.pdf)
-* Submission: To be announced
+* Submission: [Link](https://forms.gle/XdKStHNMjGPZLJTu8) (Requires Handong Google account sign-in)
 
 
 ### Materials ###
