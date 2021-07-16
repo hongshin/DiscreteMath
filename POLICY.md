@@ -22,10 +22,10 @@ Global?](http://www.hgupress.com/news/articleView.html?idxno=6078)
 by Prof. Scott Lincoln
 
 #### Contact with Instructor ####
-**Questions**: Use Handong LMS (https://online.handong.edu). 
-Put a post to ``Q&A Board``. This is to make questions and answers public
-that all class members can share them easily. For this reason, the instructor 
-and the TAs will not response to any personal contacts (e.g., email).
+**Questions**: Use the class channel in Slack. 
+Make questions publicly, so that I can share the question and my answer 
+easily with all class members. For this reason, the TAs and I will not 
+response to any personal contacts (e.g., Slack DM, e-mail).
 
 **Administrative requests**: Use Handong LMS and LMS Messaging.
 For claiming attendance update and discussion point, you must put a post to 
