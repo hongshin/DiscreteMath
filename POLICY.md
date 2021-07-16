@@ -64,6 +64,10 @@ meetings, in supporting students for accomplishing assignments, and in
 processing educational materials such as grading exam/quizzes/assignments. 
 There may be help desk sessions offered by TAs if required.
 
+### Class Materials ###
+* You are MUST NOT record the audio or video of the class meeting (even for your personal use).
+* Illegal uses of the class materials are strictly prohibited. Check and uphold their copyrights.
+
 ### Class Attendance ###
 * The instructor will check the attendance of each student at every class.
   Each student must declare his/her attendance at a class by responsing to the
