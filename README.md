@@ -10,7 +10,7 @@
 * Instructor: Shin Hong https://hongshin.github.io / hongshin@handong.edu
 
 ### Course objectives ###
-This course aims to equip beginner-level students majored in Computer Scinece
+This course aims to equip beginner-level students majored in Computer Science
 with essential mathematics for pursing their study in Computer Science.
 It is designed to articulate students in reading and writing formal description
 of mathematical concept, understanding basics of computation, and reasoning 
