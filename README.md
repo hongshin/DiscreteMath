@@ -16,7 +16,7 @@ It is designed to articulate students in reading and writing formal description
 of mathematical concept, understanding basics of computation, and reasoning 
 properties of data structures (e.g. sets, relations, permutations, graphs, and 
 trees). This course is also purposed to broaden student's interests in 
-Computer Science by engaging the fundamental conepts with their applications in
+Computer Science by engaging the fundamental concepts with their applications in
 real-world.
 
 ### Class policies ###
