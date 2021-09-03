@@ -26,6 +26,7 @@ real-world.
 This book can be found in *Handong Book* on campus. It is **mandatory** for each student to hold a copy of this textbook: it will be assumed that everyone is able to access the textbook by himself/herself anytime in this semester for doing homework, assignmenets, etc.
 
 #### Lecture Notes  #### 
+* [Propositional Logic](notes/propositional+logic.pdf) (3 Sep)
 * [Course Overview](notes/course+overview.pdf) (31 Aug)
 
 #### Assignments & Homework ####
