@@ -30,7 +30,7 @@ This book can be found in *Handong Book* on campus. It is **mandatory** for each
 * [Course Overview](notes/course+overview.pdf) (31 Aug)
 
 #### Assignments & Homework ####
-* Weekly reading group assignments [link](assignments/reading+group.md)
+* Weekly reading group assignments [\[link\]](assignments/reading+group.md)
 
 #### Useful references
 - [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html), Stanford University
