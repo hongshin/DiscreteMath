@@ -1,3 +1,11 @@
+### Week 3 ###
+* read Chapteres 1.6-1.8
+* solve the following exercise problems:
+  - Ch. 1.6: 12, 29
+  - Ch. 1.7: 9, 17, 28
+  - Ch. 1.8: 19, 36
+
+
 ### Week 2 ###
 * read Chapters 1.4-1.5
 * solve the following exercise problems:
