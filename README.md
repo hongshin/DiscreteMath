@@ -37,7 +37,7 @@ This book can be found in *Handong Book* on campus. It is **mandatory** for each
 
 #### Assignments & Homework ####
 * Homework 2. Solving Puzzles with SAT Solver
-    - [homework description](assignments/homework1.pdf)
+    - [homework description](assignments/homework2.pdf)
     - [report template](assignments/report.docx)
     - [nqueen-sat.c](assignments/nqueen-sat.c)    
 * Homework 1. Entrance Survey
