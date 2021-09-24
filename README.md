@@ -27,6 +27,7 @@ This book can be found in *Handong Book* on campus. It is **mandatory** for each
 
 #### Lecture Notes  #### 
 * [Puzzle Solving with SAT Solver](notes/prop+logic+solver.pdf) (24 Sep)
+    - [nqueen-sat.c](assignments/nqueen-sat.c)
 * [Test 1](notes/test1.pdf) (17 Sep)
 * [Proof](notes/proof.pdf) (14 Sep)
 * [Rule of Inference](notes/inference.pdf) (10 Sep)
