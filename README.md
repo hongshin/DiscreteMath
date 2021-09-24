@@ -33,6 +33,10 @@ This book can be found in *Handong Book* on campus. It is **mandatory** for each
 * [Course Overview](notes/course+overview.pdf) (31 Aug)
 
 #### Assignments & Homework ####
+* Homework 1: Solving Puzzles with SAT Solver
+    - [homework description](assignments/homework1.pdf)
+    - [report template](assignments/report.docx)
+    - [nqueen-sat.c](assignments/nqueen-sat.c)    
 * Weekly reading group assignments [\[link\]](assignments/reading+group.md)
 
 #### Useful references
