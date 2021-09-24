@@ -1,3 +1,7 @@
+### Week 4 ###
+* write a C program that uses Z3 to finds a solution of a given Sudozu puzzle
+* describe the design and the implementation of your Sudoku solving program in the Google Doc report (by 11:59 PM, Sep 28)
+
 ### Week 3 ###
 * read Chapteres 1.6-1.8
 * solve the following exercise problems:
