@@ -26,6 +26,7 @@ real-world.
 This book can be found in *Handong Book* on campus. It is **mandatory** for each student to hold a copy of this textbook: it will be assumed that everyone is able to access the textbook by himself/herself anytime in this semester for doing homework, assignmenets, etc.
 
 #### Lecture Notes  #### 
+* [Set and Function](notes/set+function.pdf) (28 Sep, 1 OCt)
 * [Puzzle Solving with SAT Solver](notes/prop+logic+solver.pdf) (24 Sep)
     - [nqueen-sat.c](assignments/nqueen-sat.c)
 * [Test 1](notes/test1.pdf) (17 Sep)
