@@ -43,6 +43,7 @@ This book can be found in *Handong Book* on campus. It is **mandatory** for each
     - [nqueen-sat.c](assignments/nqueen-sat.c)    
 * Homework 1. Entrance Survey
 * Weekly reading group assignments [\[link\]](assignments/reading+group.md)
+    - [Peer evaluation form](assignments/peer+evaluation.xlsx)
 
 #### Useful references
 - [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html), Stanford University
