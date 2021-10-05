@@ -1,3 +1,11 @@
+### Week 6 ###
+* read Chapters 2.1--2.5
+* solve the following exercise problems:
+     - Ch. 2.1: 12
+     - Ch. 2.2: 21
+     - Ch. 2.3: 33, 42     
+     - Ch. 2.5: 3, 35
+
 ### Week 4 ###
 * write a C program that uses Z3 to finds a solution of a given Sudozu puzzle
 * describe the design and the implementation of your Sudoku solving program in the Google Doc report (by 11:59 PM, Sep 28)
