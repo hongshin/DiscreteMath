@@ -1,3 +1,10 @@
+### Week 7 ###
+* read Chatpers 3.1 and 3.2, and 5.1 and 5.2
+* solve the following exercise problems:
+     - Ch. 3.2: 9, 17
+     - Ch. 5.1: 19, 20, 41
+     - Ch. 5.2: 3, 12
+
 ### Week 6 ###
 * read Chapters 2.1--2.5
 * solve the following exercise problems:
@@ -7,7 +14,7 @@
      - Ch. 2.5: 3, 35
 
 ### Week 4 ###
-* write a C program that uses Z3 to finds a solution of a given Sudozu puzzle
+* write a C program that uses Z3 to find a solution of a given Sudozu puzzle
 * describe the design and the implementation of your Sudoku solving program in the Google Doc report (by 11:59 PM, Sep 28)
 
 ### Week 3 ###
