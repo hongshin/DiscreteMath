@@ -52,6 +52,7 @@ This book can be found in *Handong Book* on campus. It is **mandatory** for each
     - [Peer evaluation form](assignments/peer+evaluation.xlsx)
 
 #### Useful references
+- [Exam problems of the previous years](resource/)
 - [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html), Stanford University
 - [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/), MIT OCW
 - [Discrete Mathematics: An Open Introduction, 3/e](http://discrete.openmathbooks.org/dmoi3.html) by Oscar Levin
