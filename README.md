@@ -26,10 +26,16 @@ real-world.
 This book can be found in *Handong Book* on campus. It is **mandatory** for each student to hold a copy of this textbook: it will be assumed that everyone is able to access the textbook by himself/herself anytime in this semester for doing homework, assignmenets, etc.
 
 #### Lecture Notes  #### 
+* [#Test 2](notes/test2.pdf) (22 Oct)     
+* [Recursion](notes/recursion.pdf) (19 Oct)
+* [Induction](notes/induction.pdf) (15 Oct)
+* [Algorithm](notes/algorithm.pdf) (12 Oct)
+* [Set Cardinality](notes/cardinality.pdf) (8 Oct)
+* [Sequence](notes/sequence.pdf) (5 Oct)
 * [Set and Function](notes/set+function.pdf) (28 Sep, 1 Oct)
 * [Puzzle Solving with SAT Solver](notes/prop+logic+solver.pdf) (24 Sep)
     - [nqueen-sat.c](assignments/nqueen-sat.c)
-* [Test 1](notes/test1.pdf) (17 Sep)
+* [#Test 1](notes/test1.pdf) (17 Sep)
 * [Proof](notes/proof.pdf) (14 Sep)
 * [Rule of Inference](notes/inference.pdf) (10 Sep)
 * [Predicate Logic](notes/predicate+logic.pdf) (7 Sep, 10 Sep)
