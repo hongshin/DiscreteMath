@@ -1,3 +1,9 @@
+### Week 8 ###
+* read Chapters 5.3 and 5.4
+* solve the following exercise problems:
+     - Ch. 5.3: 20, 25, 42, 46
+     - Ch. 5.4: 8, 10, 24
+
 ### Week 7 ###
 * read Chatpers 3.1 and 3.2, and 5.1 and 5.2
 * solve the following exercise problems:
