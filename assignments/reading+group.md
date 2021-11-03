@@ -1,3 +1,9 @@
+### Week 10 ###
+* write a C program that generates the member strings (without receiving the grammar) specifically for the first recursive language problem of Homework 3.
+* solve the following exercise problems:
+     - Ch. 6.1: 41, 42, 43
+     - Ch. 6.2: 11, 21
+
 ### Week 8 ###
 * read Chapters 5.3 and 5.4
 * solve the following exercise problems:
