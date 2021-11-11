@@ -1,3 +1,11 @@
+### Week 11 ###
+* solve the following exercise problems:
+    - Ch. 6.3: 22, 30
+    - Ch. 6.4: 12, 37
+    - Ch. 6.5: 16
+    - Ch. 7.1: 25, 42
+    - Ch. 7.2: 11, 16
+    
 ### Week 10 ###
 * write a C program that generates the member strings (without receiving the grammar) specifically for the first recursive language problem of Homework 3.
 * solve the following exercise problems:
