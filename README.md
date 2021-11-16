@@ -26,6 +26,8 @@ real-world.
 This book can be found in *Handong Book* on campus. It is **mandatory** for each student to hold a copy of this textbook: it will be assumed that everyone is able to access the textbook by himself/herself anytime in this semester for doing homework, assignmenets, etc.
 
 #### Lecture Notes  #### 
+* [Probability](notes/probability.pdf)
+* [Counting](notes/counting.pdf)
 * [Halting Problem](notes/halting+problem.pdf) (29 Oct)
 * [#Test 2](notes/test2.pdf) (22 Oct)     
 * [Recursion](notes/recursion.pdf) (19 Oct)
