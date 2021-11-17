@@ -1,3 +1,9 @@
+### Week 12 ###
+* solve the following exercise problems:
+    - Ch. 7.2: 28, 30, 36
+    - Ch. 7.3: 9, 17, 18
+    - Ch. 9.1: 6, 22, 53, 57
+
 ### Week 11 ###
 * solve the following exercise problems:
     - Ch. 6.3: 22, 30
