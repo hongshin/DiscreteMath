@@ -1,3 +1,9 @@
+### Week 13 ###
+* solve the following exercise problems:
+    - Ch. 9.3: 6, 10, 29
+    - Ch. 9.5: 2, 3, 14, 33
+    - Ch. 9.6: 3, 7, 22, 32
+
 ### Week 12 ###
 * solve the following exercise problems:
     - Ch. 7.2: 28, 30, 36
