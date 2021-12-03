@@ -1,0 +1,23 @@
+
+To use this library, just copy ezdib.h and ezdib.c 
+into your project and go!
+
+See main.c for examples.
+See ezdib.c for options you may want to customize
+
+//------------------------------------------------------------------
+// Building the examples using make
+//------------------------------------------------------------------
+
+// Linux / Mac / posix release
+make
+
+// Linux / Mac / posix debug
+make TGT=debug
+
+// Windows static release from linux or cygwin, 
+// substitute your prefix for PR
+make TGT=windows-static PR=i686-pc-mingw32-
+
+// Windows static debug
+make TGT=windows-static-debug PR=i686-pc-mingw32-
