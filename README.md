@@ -46,6 +46,12 @@ This book can be found in *Handong Book* on campus. It is **mandatory** for each
 * [Course Overview](notes/course+overview.pdf) (31 Aug)
 
 #### Assignments & Homework ####
+* Homework 4. Hasse Diagram Plotter
+    - [homework description](assignments/homework4.pdf)
+    - [report template](assignments/report.docx)
+    - [ezdib library](assignments/ezdib)
+* Homework 3. Generating Languages from Grammars
+    - [homework description](assignments/homework3.pdf)
 * Homework 2. Solving Puzzles with SAT Solver
     - [homework description](assignments/homework2.pdf)
     - [report template](assignments/report.docx)
