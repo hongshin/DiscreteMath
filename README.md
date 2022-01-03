@@ -26,6 +26,7 @@ real-world.
 This book can be found in *Handong Book* on campus. It is **mandatory** for each student to hold a copy of this textbook: it will be assumed that everyone is able to access the textbook by himself/herself anytime in this semester for doing homework, assignmenets, etc.
 
 #### Lecture Notes  #### 
+* [#Test 4](notes/test4.pdf) (17 Dec)
 * [Graph](notes/graph.pdf) (7 Dec, 10 Dec)
 * [Relation](notes/relation.pdf) (23 Nov, 30 Nov, 3 Dec)
 * [#Test 3](notes/test3.pdf) (19 Nov)
