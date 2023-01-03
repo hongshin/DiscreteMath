@@ -70,6 +70,7 @@ This book can be found in *Handong Book* on campus. It is **mandatory** for each
 - [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/), MIT OCW
 - [Discrete Mathematics: An Open Introduction, 3/e](http://discrete.openmathbooks.org/dmoi3.html) by Oscar Levin
 - [Programming and Mathematical Thinking: A Gentle Introduction to Discrete Math Featuring Python](http://webpages.math.luc.edu/~lauve/courses/215-fa2016/Stavely_python_ebook.pdf) by Allan M. Stavely  
+- [Discrete Math Tools](https://www.compscilib.com/search/discrete-math) 
 
 ### Online channels ###
 * [Hisnet](http://hisnet.handong.edu) for attendance accounting and turning in homeworks
